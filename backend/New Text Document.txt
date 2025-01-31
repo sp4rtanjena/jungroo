@@ -1,0 +1,28 @@
+CourseDetails
+	{[	
+        {
+            "sub_id": unique_val,
+		    "subjet_name": "Mathematics",
+		    sub_details: [
+			    {"topic": "Algebra", "desc": "davd", "video": },
+			    {"topic": "Algebra", "desc": "davd", "video": },
+		    ],
+
+		
+            "sub_id": unique_val,
+		    "subjet_name: "Science"
+		    sub_details: [
+			    {"topic": "Algebra", "desc": "davd", "video": },
+			    {"topic": "Algebra", "desc": "davd", "video": },
+		    ]
+        }
+	]}
+
+
+
+
+// app get subject and chapters
+
+subject_name: CSE
+
+topics : 
